@@ -5,6 +5,8 @@
 We were making we first bot using a features called logging
 with assigned structure.
 
+
+
 ### code:
 
 ```python
